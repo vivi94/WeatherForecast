@@ -15,6 +15,7 @@ import android.util.Log;
 
 public class GetJsonData {
 
+    /*
     private static final String OPEN_WEATHER_MAP_API =
             "http://api.openweathermap.org/data/2.5/weather?q=%s&units=metric";
 
@@ -49,4 +50,5 @@ public class GetJsonData {
             return null;
         }
     }
+    */
 }
